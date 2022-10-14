@@ -5,7 +5,9 @@ import QuestionsBlock from './components/QuestionsBlock'
 
 const App = () => {
 
-  const [quiz, setQuiz] = useState(false)
+  const [quiz, setQuiz] = useState([false])
+  const [chosenAnswerItems, setChosenAnswerItems] = useState([])
+  const [unansweredQuestionIds, setUnansweredQuestionIds] = useState([])
 
   const fetchData = async () => {
 
@@ -24,6 +26,14 @@ const App = () => {
     fetchData()
   }, [])
 
+  useEffect(() => {
+    const unansweredIds = quiz.content.map(({id}) => id)
+    setUnansweredQuestionIds(unansweredIds)
+  }, [quiz])
+
+  console.log(chosenAnswerItems)
+  console.log(unansweredQuestionIds)
+
   return (
     <div className='app'>
       <Title title={quiz?.title} subtitle={quiz?.subtitle}/>
@@ -31,7 +41,12 @@ const App = () => {
         quiz && quiz?.content.map(contentItem => (
           <QuestionsBlock 
           key={contentItem.id}
-          quizItem={contentItem}/>
+          quizItem={contentItem}
+          setChosenAnswerItems={setChosenAnswerItems}
+          chosenAnswerItems={chosenAnswerItems} 
+          setUnansweredQuestionIds={setUnansweredQuestionIds}
+          unansweredQuestionIds={unansweredQuestionIds}
+          />
         ))
       }
     </div>
