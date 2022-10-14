@@ -10,27 +10,27 @@
         "questions": [
           {
             "text": "New York",
-            "image": "https://images.unsplash.com/photo-1546436836-07a91091f160?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bmV3JTIweW9yayUyMGNpdHl8ZW58MHx8MHx8&auto=format&fit=crop&w=900&q=60",
+            "image": "https://media.istockphoto.com/photos/brooklyn-bridge-and-the-manhattan-at-night-new-york-picture-id925489842?k=20&m=925489842&s=612x612&w=0&h=60j_gNSkg0FT0v8JFOZLoyMpYVD2mWdVUPIocvsXnQ0=",
             "alt": "New York 1",
-            "credit": "Photographer 1"
+            "credit": "Alan Carr"
           },
           {
             "text": "Austin",
-            "image": "https://media.istockphoto.com/photos/downtown-austin-texas-with-capital-and-riverfront-picture-id1359349109?k=20&m=1359349109&s=612x612&w=0&h=-JEZS1GZ4be4rEMvXjWhuqMnaET9SY3De0fQNLtSYSQ=",
+            "image": "https://media.istockphoto.com/photos/yokohama-waterfront-night-view-picture-id1201246576?k=20&m=1201246576&s=612x612&w=0&h=1Mc9XVb707km1VFFeDKl3ZhB9omInNjwmXDiHM8EUog=",
             "alt": "Austin 2",
-            "credit": "Photographer 2"
+            "credit": "Bob Thorpe"
           },
           {
             "text": "Portland",
             "image": "https://media.istockphoto.com/photos/portland-maine-usa-downtown-city-skyline-picture-id1341277453?k=20&m=1341277453&s=612x612&w=0&h=9-1NOvIpGACHaJXCtTuaj2_yBZsIJi3a7nQuwJy5tY4=",
             "alt": "Portland 3",
-            "credit": "Photographer 3"
+            "credit": "Don Katz"
           },
           {
             "text": "New Orleans",
             "image": "https://media.istockphoto.com/photos/new-orleans-louisiana-usa-downtown-city-skyline-picture-id1147790461?k=20&m=1147790461&s=612x612&w=0&h=DH-WJ_024dwPyYHUUR8wmhw2wq8_oTeVhJFSEcVOEsg=",
             "alt": "New Orleans 4",
-            "credit": "Photographer 4"
+            "credit": "Edna Rose"
           }
         ]
       },
@@ -42,25 +42,25 @@
             "text": "Pizza",
             "image": "https://media.istockphoto.com/photos/pizza-with-salami-bell-pepper-tomatoes-and-cheese-pickles-bacon-and-picture-id1377372234?k=20&m=1377372234&s=612x612&w=0&h=S8kgjd9GF85x5reHf96ou3uy0cpp0qEGPLWNFJRuxro=",
             "alt": "Pizza 1",
-            "credit": "Photographer 5"
+            "credit": "Fred Blog"
           },
           {
             "text": "Sandwich",
             "image": "https://media.istockphoto.com/photos/club-sandwich-made-with-bacon-ham-turkey-cheese-lettuce-and-tomato-picture-id1397193477?k=20&m=1397193477&s=612x612&w=0&h=9-UZ1GO9Y1hH6TK5wvwtVNIXD2lVGUC2sNLfwQkW-bg=",
             "alt": "Sandwich 1",
-            "credit": "Photographer 6"
+            "credit": "Gerard Gant"
           },
           {
             "text": "Pasta",
             "image": "https://media.istockphoto.com/photos/spaghetti-alla-puttanesca-italian-pasta-dish-with-tomatoes-black-picture-id1325172440?k=20&m=1325172440&s=612x612&w=0&h=4kTCDXCh7_oMCzNY5VK6aodoWUBYENd0TxbbCgRMr5g=",
             "alt": "Pasta 1",
-            "credit": "Photographer 7"
+            "credit": "Harry Bill"
           },
           {
             "text": "Hamburger",
             "image": "https://media.istockphoto.com/photos/cheeseburger-with-tomato-and-lettuce-on-wooden-board-picture-id1309352410?k=20&m=1309352410&s=612x612&w=0&h=BZOn2siM0Y21WW6FDMLYY3dChb0SkuhDSJ20N2jZe-A=",
             "alt": "Hamburger 1",
-            "credit": "Photographer 8"
+            "credit": "Ian Kimm"
           }
         ]
       },
@@ -72,25 +72,25 @@
             "text": "Traditional",
             "image": "https://media.istockphoto.com/photos/affluent-and-expensive-homes-in-london-picture-id979465326?k=20&m=979465326&s=612x612&w=0&h=7DHzdspbBe9T5p7Xgf-WMWa-KFj7PUTBTfrJfKwZ_jA=",
             "alt": "House 1",
-            "credit": "Photographer 9"
+            "credit": "Jill Kaye"
           },
           {
             "text": "Modern",
             "image": "https://media.istockphoto.com/photos/3d-rendering-of-modern-house-in-luxurious-style-picture-id1282518866?k=20&m=1282518866&s=612x612&w=0&h=T56S5E0U9d6kHWT_EosYtwOSY217BqMBt5LpxWsh-Rg=",
             "alt": "House 2",
-            "credit": "Photographer 10"
+            "credit": "Keith Lemin"
           },
           {
             "text": "Old House",
             "image": "https://media.istockphoto.com/photos/luxury-country-home-picture-id94324587?k=20&m=94324587&s=612x612&w=0&h=87B5DKGc3kXi_RksuJbJI9yq3VylrC83KTk-zMcPkQs=",
             "alt": "House 3",
-            "credit": "Photographer 11"
+            "credit": "Lydia Lunch"
           },
           {
             "text": "Mountains",
             "image": "https://media.istockphoto.com/photos/3d-rendering-of-modern-cozy-chalet-in-winter-night-picture-id1348050883?k=20&m=1348050883&s=612x612&w=0&h=76dLdCn7bufW-9DmRjgPdNI-3C3KmaUIORKkcMnBFiw=",
             "alt": "House 4",
-            "credit": "Photographer 12"
+            "credit": "Max Tyler"
           }
         ],
         "answers": [
